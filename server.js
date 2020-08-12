@@ -27,7 +27,7 @@ client.aliases = new Discord.Collection();
 const usedCommandRecently4 = new Set();
 
 var prefix = "--";
-const token = "";
+const token = "NzQyMTQ2NjEzOTU4NTQxMzgy.XzB35Q.Abmugr5w0z5aWP7EK3-P8ddNshE";
 
 
 
